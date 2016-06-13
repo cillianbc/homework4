@@ -3,7 +3,7 @@ html, body {
   height: 100%;
   width: 100%;
 }
-.container {
+.container-homework {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -17,4 +17,7 @@ html, body {
   font-size: 2em;
   line-height: 2em;
   font-weight: bold;
+}
+#colourchooser,#stickymessage{
+  margin:2rem;
 }
